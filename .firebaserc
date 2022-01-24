@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ng-video-game-db": {
+      "hosting": {
+        "ng-video-game-db": [
+          "ng-video-game-db"
+        ]
+      }
+    }
+  }
+}
